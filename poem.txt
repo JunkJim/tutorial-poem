@@ -3,6 +3,8 @@ The Poem
 Purple
 Pink
 Orange
+Green 
+Black
 Blue 
 Red
 These are the colours of the rainbow
